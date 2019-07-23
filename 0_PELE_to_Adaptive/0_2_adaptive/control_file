@@ -30,7 +30,7 @@
                 "savingFrequencyForAcceptedSteps": 1
             },
             "PELE_Parameters": {
-                "numberOfPeleSteps" : 400,
+                "numberOfPeleSteps" : $PELE_STEPS,
                 "temperature": 2000,
                 "anmFrequency" : 1,
                 "minimizationFrequency" : 1,
