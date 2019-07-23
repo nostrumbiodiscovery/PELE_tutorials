@@ -1,0 +1,8 @@
+rot assign res JNJ &
+   sidelib FREE10 _C12 _C9_ &
+   sidelib FREE10 _C1_ _N1_ &
+     newgrp &
+   sidelib FREE30 _C14 _C15 &
+   sidelib FREE30 _N5_ _C20 &
+   sidelib FREE30 _C20 _C24 &
+   sidelib FREE30 _C20 _C27 &
