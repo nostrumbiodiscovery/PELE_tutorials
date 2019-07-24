@@ -6,7 +6,7 @@ URL PELE: https://nostrumbiodiscovery.github.io/nbd_central_docs/PELE/index.html
 
 URL PELE FEATURES: https://nostrumbiodiscovery.github.io/nbd_central_docs/software/index.html
 
-Presetation: https://docs.google.com/presentation/d/11blkxqvGCbwM4QeZVNT2CGn4PUr4x-n-gYTNuh3wYvg/edit#slide=id.p
+Presentation: https://drive.google.com/open?id=11blkxqvGCbwM4QeZVNT2CGn4PUr4x-n-gYTNuh3wYvg
 
 # Best Practices
 
