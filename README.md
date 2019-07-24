@@ -1,6 +1,10 @@
 # PELE_tutorials
 
-Protein Eenrgy Landscape Exploaration (PELE) tutorials
+Protein Energy Landscape Exploaration (PELE) tutorials
+
+URL PELE: https://nostrumbiodiscovery.github.io/nbd_central_docs/PELE/index.html
+
+URL PELE FEATURES: https://nostrumbiodiscovery.github.io/nbd_central_docs/software/index.html
 
 # Best Practices
 
