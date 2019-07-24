@@ -1,0 +1,10 @@
+#!/bin/bash
+#$ -N PELE_MPI
+#$ -o pele.out
+#$ -q cpu
+#$ -pe mpi 36
+#$ -e pele.err
+#$ -l mem_free=1G
+
+ 
+mpirun -np 36 Pele_mpi control_file.conf
