@@ -14,7 +14,7 @@ Please follow the numeration to go through the tutorials you will:
 
 1) Learn about optimizing docking poses with PELE
 
-2) Learn about  binding mode prediction when docking is not possible in your cavity
+2) Learn about  binding mode prediction when docking is not possible
 
 3) Learn about pocket identification with PELE
 
