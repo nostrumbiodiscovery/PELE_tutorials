@@ -1,0 +1,9 @@
+system: '5vb7_prw.pdb'
+chain: 'Z'
+resname: 'AGO'
+restart: false
+seed: 12345
+usesrun: true
+#in_out: true
+induced_fit_exhaustive: true
+cpus: 2

@@ -1,0 +1,17 @@
+system: '5vb3apo_prw4pele_ago_ligandout_top.pdb'
+chain: 'L'
+resname: 'AGO'
+restart: false
+seed: 12345
+out_in: true
+cpus: 2
+usesrun: true
+box_radius: 14
+box_center:
+  - -1.709
+  - 22.433
+  - 10.093
+atom_dist:
+  - A:479:NE2
+  - L:602:O2
+usesrun: true
