@@ -2,10 +2,8 @@ system: '5CGC_entrance.pdb'
 chain: 'C'
 resname: 'CGC'
 box_radius: 30.0
-restart: false
 seed: 12345
-usesrun: true
 bias_sim: true
 traj_name: 'trajectory.xtc'
 rmsd_pdb: '5CGC_native.pdb'
-cpus: 2
+cpus: 100

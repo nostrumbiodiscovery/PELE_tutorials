@@ -1,12 +1,9 @@
 system: 'input_0.pdb'
-usesrun: true
 chain: 'L'
 resname: 'JNJ'
-restart: false
 seed: 12345
-global: true
-poses: 2
-cpus: 4
+ppi: true
+cpus: 100
 usesrun: true
 atom_dist:
   - L:1:O3

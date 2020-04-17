@@ -1,0 +1,6 @@
+system: '5vb7_prw.pdb'
+chain: 'Z'
+resname: 'AGO'
+seed: 12345
+in_out: true
+cpus: 20
